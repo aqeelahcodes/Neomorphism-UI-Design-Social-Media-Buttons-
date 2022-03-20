@@ -1,7 +1,7 @@
 # Neomorphism-UI-Design-Social-Media-Buttons
 
 ## Languages and Libraries used: 
-HTML | CSS
+HTML | CSS    
 Font Awesome https://fontawesome.com/
 
 ## What the project does
